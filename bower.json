@@ -1,0 +1,24 @@
+{
+  "name": "fluig-bootstrap",
+  "version": "0.0.1",
+  "authors": [
+    "Jonathan Welzel <jonathan.welzel@fluig.com>"
+  ],
+  "description": "Unofficial package for the Fluig styles and components",
+  "main": "fluig-style-guide.js, fluig-style-guide.css",
+  "keywords": [
+    "fluig",
+    "bootstrap",
+    "styles",
+    "guide"
+  ],
+  "license": "MIT",
+  "homepage": "http://style.fluig.com/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
