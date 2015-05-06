@@ -1,0 +1,28 @@
+{
+  "name": "fluig-bootstrap",
+  "version": "0.0.6",
+  "description": "Unofficial package for the Fluig styles and components",
+  "main": "js/fluig-style-guide.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jnwelzel/fluig-bootstrap.git"
+  },
+  "keywords": [
+    "fluig",
+    "bootstrap",
+    "styles",
+    "guide"
+  ],
+  "author": "Jonathan Welzel <jonathan.welzel@fluig.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jnwelzel/fluig-bootstrap/issues"
+  },
+  "homepage": "https://github.com/jnwelzel/fluig-bootstrap",
+  "dependencies": {
+    "jquery": "^2.1.4"
+  }
+}
