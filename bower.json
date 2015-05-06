@@ -5,7 +5,7 @@
     "Jonathan Welzel <jonathan.welzel@fluig.com>"
   ],
   "description": "Unofficial package for the Fluig styles and components",
-  "main": ["fluig-style-guide.js", "fluig-style-guide.css"],
+  "main": ["js/fluig-style-guide.js", "css/fluig-style-guide.css"],
   "keywords": [
     "fluig",
     "bootstrap",
