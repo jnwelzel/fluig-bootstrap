@@ -1,6 +1,6 @@
 {
   "name": "fluig-bootstrap",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Unofficial package for the Fluig styles and components",
   "main": "js/fluig-style-guide.js",
   "scripts": {
